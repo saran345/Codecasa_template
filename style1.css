@@ -1,0 +1,77 @@
+ body{
+            background-image: url(logo.jpg);
+            background-size: cover;
+        }
+        .dd{
+            font-size: 110px;
+            color: yellow;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        .ff{
+            color: yellow;
+            font-size: 70px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont,
+             'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .lot{
+            
+            font-size: 20px;
+            font-style: italic;
+            color: yellow;
+            width: 43%;
+            height: 53%;
+            padding: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+            padding-top: 2px;
+            padding-left: 1em;
+            background-color: rgb(29, 27, 27);
+            opacity:  .3;
+            outline: none;
+        }
+        a,ul,li,nav{
+    text-decoration: none;
+    display: inline-block;
+   
+}
+.wel{
+    text-align: right;
+    
+}
+a,li{
+    font-size: 28px;
+    padding: 15px;
+    padding-top: 0px;
+    
+}
+a:hover{
+    background-color:lightcoral;
+    border-radius: 50%;
+    opacity: white.5;
+    padding: auto;
+    height:auto;
+
+}
+.sa{
+    color: rgb(247, 232, 23);
+}
+.we{
+    color: black;
+}
+h1{
+    color: yellow;
+    text-align: left;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-top: 2px;
+    cursor: pointer;
+}
+  
+
+footer{
+    color: yellow;
+    font-size: 2em;
+    padding: 10px;
+    white-space: 10px;
+}
